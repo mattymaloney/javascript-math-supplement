@@ -3,4 +3,4 @@ Supplementary functions for the javascript Math library.
 
 Code-usable reference:
 
-https://rawgit.com/mattymaloney/javascript-math-supplement/master/M.js
+https://cdn.jsdelivr.net/gh/mattymaloney/javascript-math-supplement/M.js
